@@ -18,6 +18,7 @@
 		<name>CustomField</name>
 	</types>
 	<types>
+		<members>Case</members>
 		<members>SQX_Nonconformance__c</members>
 		<name>CustomObject</name>
 	</types>
