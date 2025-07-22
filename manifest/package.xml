@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CaseTriggerHandler</members>
+		<members>CaseTriggerTest</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>CaseTrigger</members>
+		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>Case.Nonconformance__c</members>
+		<members>SQX_Nonconformance__c.Description__c</members>
+		<members>SQX_Nonconformance__c.Priority__c</members>
+		<members>SQX_Nonconformance__c.QMS_Reference_Number__c</members>
+		<members>SQX_Nonconformance__c.Title__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>SQX_Nonconformance__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Case_Admin</members>
+		<name>PermissionSet</name>
+	</types>
+	<version>64.0</version>
+</Package>
